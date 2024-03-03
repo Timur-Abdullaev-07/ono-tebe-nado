@@ -21,7 +21,7 @@ body {
 
 .header__menu-list {
     display: flex;
-    gap: 13px
+    gap: 13px;
 }
 
 .header__menu-item {
